@@ -1,4 +1,8 @@
+html{
+  height: auto;
+}
 body {
+height: 100%;
 font-family: sans-serif;
 padding-left: 5em;
 padding-right: 5em;
@@ -8,8 +12,10 @@ padding-top: 1em;
 		  color: purple;
       height:auto;
       width:auto;
-      background-image: linear-gradient(to bottom right, #9fd98d, #00d3da);
-      background-color: #9fd98d;}
+      background-image: linear-gradient(#00d3da, #9fd98d);
+    background-color: #9fd98d;
+    background-repeat: no-repeat;
+}
 h1 {
   text-align: center;
 }
