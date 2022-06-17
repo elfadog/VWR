@@ -90,4 +90,7 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+th{
+  text-align: left;
+}
   
